@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# APL2.0, OE3DZW
+
 def location_from_locator(locator: str):
     long_offset = float(180)
     long_range = float(360)
