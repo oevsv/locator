@@ -74,7 +74,6 @@ def location_from_locator(locator: str):
 
 
 def locator_from_location(longitude: float, latitude: float, length):
-    print()
 
     long_offset = float(180)
     long_range = float(360)
